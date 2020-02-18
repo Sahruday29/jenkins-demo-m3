@@ -7,7 +7,7 @@
 	<artifactId>jenkins-demo-m3</artifactId>
 	<version>1.0.0-SNAPSHOT</version>
 	<packaging>mule</packaging>
-	<name>Mule jenkins-demo-m3 Application</name>
+	<name>Mule jenkins-demo-m3-sahruday Application</name>
 
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -18,7 +18,7 @@
 		<username>Sahruday_Tumoju</username>
 		<password>Sahruday@29</password>
 		<applicationName>jenkins-demo-m3</applicationName>
-		<environment>DEV</environment>
+		<environment>PROD</environment>
 		<businessGroup>LnD</businessGroup>
 	</properties>
 
